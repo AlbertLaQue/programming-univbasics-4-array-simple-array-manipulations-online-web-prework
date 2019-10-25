@@ -11,7 +11,7 @@ def using_pop(array)
 array.pop()
  end
  
-def pop_with_args(array,string)
+def pop_with_args(array)
   a = ["a","b","c"]
    pop_with_args.pop(2)
  end
