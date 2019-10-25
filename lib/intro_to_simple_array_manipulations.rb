@@ -32,6 +32,6 @@ def pop_with_args(array)
  end
  
  def using_uniq(array)
-   uniq.flatten
+   array.flatten
  end
   
