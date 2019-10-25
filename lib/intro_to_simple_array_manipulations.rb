@@ -8,4 +8,6 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  
+  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+maru_cat = famous_cats.pop
+ end
