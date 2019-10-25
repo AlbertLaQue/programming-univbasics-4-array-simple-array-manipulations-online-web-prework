@@ -13,5 +13,5 @@ array.pop()
  
 def pop_with_args(array)
   a = ["a","b","c"]
-   pop_with_args.pop(a)
+   pop_with_args.pop(string)
  end
