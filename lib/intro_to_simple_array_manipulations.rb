@@ -10,4 +10,5 @@ end
 def using_pop(array)
   famous_cats = ["lil' bub", "grumpy cat", "Antarctica"]
 maru_cat = famous_cats.pop
+p maru_cat
  end
