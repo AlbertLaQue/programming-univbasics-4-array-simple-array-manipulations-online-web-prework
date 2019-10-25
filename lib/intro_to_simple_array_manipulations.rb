@@ -4,4 +4,5 @@ end
 
 def using_unshift(array, string)
   using_unshift.unshift(array, string)
+  p using_unshift
 end
