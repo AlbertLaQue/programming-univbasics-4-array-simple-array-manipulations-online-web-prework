@@ -3,6 +3,6 @@ def using_push(array, string)
 end
 
 def using_unshift(array, string)
-  using_unshift.unshift(array, string)
-  p using_unshift
+  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+ famous_cats.unshift("nala cat")
 end
