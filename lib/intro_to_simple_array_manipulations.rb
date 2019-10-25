@@ -8,5 +8,5 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-maru_cat = famous_cats.pop
+famous_cats.pop
  end
